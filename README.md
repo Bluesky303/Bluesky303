@@ -15,8 +15,11 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluesky303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
----
+<div align="center">
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Bluesky303&layout=compact&theme=tokyonight)
+
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Bluesky303/Bluesky303/gh-pages/github-contribution-grid-snake-dark.svg" width="100%"/>
